@@ -1,4 +1,5 @@
-import type { Result } from "../models/Result";
+import type { Result } from "../../domain/models/Result";
+
 
 export function translateValidationErrors<T extends object>(
   errors: Partial<Record<keyof T, string>>,
