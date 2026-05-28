@@ -1,0 +1,103 @@
+:root {
+  --font-main: "Montserrat", sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-md: 1.125rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: 2rem;
+  --font-size-3xl: 2.5rem;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-none: 1;
+  --line-height-tight: 1.25;
+  --line-height-base: 1.5;
+
+  --spacing-2xs: 0.5rem;
+  --spacing-xs: 0.75rem;
+  --spacing-sm: 0.875rem;
+  --spacing-base: 1rem;
+  --spacing-md: 1.125rem;
+  --spacing-lg: 1.25rem;
+  --spacing-xl: 1.5rem;
+  --spacing-2xl: 2rem;
+  --spacing-3xl: 3rem;
+  --spacing-4xl: 4rem;
+
+  --radius-sm: 0.5rem;
+  --radius-base: 1rem;
+
+  --neutral-heading: #233a59;
+  --neutral-heading-light: #465669;
+  --neutral-dark: #313d49;
+  --neutral-medium: #212c31;
+  --neutral-black: #000000;
+  --neutral-muted: #788896;
+  --neutral-white: #ffffff;
+
+  --color-error-light: #fdf2f2;
+  --color-error-border: #f8b4b4;
+  --color-error-text: #9b1c1c;
+
+  --color-success-light: #f3faf7;
+  --color-success-border: #def7ec;
+  --color-success-text: #03543f;
+
+  --color-warning-light: #fdf6b2;
+  --color-warning-border: #fce8e6;
+  --color-warning-text: #723b13;
+
+  --color-info-light: #e1effe;
+  --color-info-border: #b3d4ff;
+  --color-info-text: #1e429f;
+
+  --layout-content-padding: var(--spacing-2xl) calc(var(--spacing-lg) * 2);
+
+  --base-animation-duration-ms: 300ms;
+
+  /* Default values */
+  --app-base-bg: #0f172a;
+  --app-surface-bg: #f8fafc;
+  --component-container-bg: #ffffff;
+  --component-container-back-bg: #64748b;
+  --component-variant-bg: #475569;
+  --action-primary-bg-base: #ffffff;
+  --action-primary-bg-medium: #f1f5f9;
+  --action-primary-bg-darken: #e2e8f0;
+  --action-primary-shadow: #0f172a;
+  --action-secondary-bg-base: #e2e8f0;
+  --action-secondary-bg-medium: #cbd5e1;
+  --action-secondary-bg-darken: #94a3b8;
+  --action-secondary-shadow: #475569;
+}
+
+@media (max-width: 767px) {
+  :root {
+    --font-size-xs: 0.5rem;
+    --font-size-sm: 0.625rem;
+    --font-size-base: 0.75rem;
+    --font-size-md: 0.825rem;
+    --font-size-lg: 0.9rem;
+    --font-size-xl: 1rem;
+    --font-size-2xl: 1.35rem;
+    --font-size-3xl: 2rem;
+
+    --spacing-xs: 0.375rem;
+    --spacing-sm: 0.5rem;
+    --spacing-base: 0.75rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.125rem;
+    --spacing-xl: 1.25rem;
+    --spacing-2xl: 1.375rem;
+    --spacing-3xl: 1.5rem;
+    --spacing-4xl: 2rem;
+
+    --layout-content-padding: var(--spacing-2xl) calc(var(--spacing-lg) * 1.2);
+  }
+}

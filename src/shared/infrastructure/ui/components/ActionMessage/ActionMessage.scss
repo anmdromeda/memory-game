@@ -1,0 +1,15 @@
+.action-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-family: var(--font-main);
+  gap: var(--spacing-md);
+  padding: var(--spacing-sm);
+
+  &__text {
+    color: var(--app-text);
+    max-width: 420px;
+  }
+}

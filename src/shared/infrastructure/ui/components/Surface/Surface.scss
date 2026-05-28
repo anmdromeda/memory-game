@@ -1,0 +1,11 @@
+.surface {
+  width: 100%;
+  background-color: var(--app-surface-bg);
+  border-radius: var(--radius-base);
+  padding: calc(var(--spacing-base) * 3.5);
+  font-family: var(--font-main);
+
+  @media (max-width: 767px) {
+    padding: var(--spacing-3xl);
+  }
+}

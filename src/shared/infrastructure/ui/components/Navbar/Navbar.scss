@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-family: var(--font-main);
+  box-shadow: var(--shadow-sm);
+
+  &__brand {
+    display: flex;
+    align-items: center;
+  }
+
+  &__brand-display-name.heading {
+    font-size: calc(var(--font-size-2xl) * 2);
+    margin-bottom: var(--spacing-xl);
+  }
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+    width: 100%;
+  }
+}

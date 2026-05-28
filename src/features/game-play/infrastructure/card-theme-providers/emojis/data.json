@@ -1,0 +1,1016 @@
+[
+  {
+    "emoji": "😀",
+    "hexcode": "1f600",
+    "annotation": "grinning face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😃",
+    "hexcode": "1f603",
+    "annotation": "grinning face with big eyes",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😄",
+    "hexcode": "1f604",
+    "annotation": "grinning face with smiling eyes",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😁",
+    "hexcode": "1f601",
+    "annotation": "beaming face with smiling eyes",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😆",
+    "hexcode": "1f606",
+    "annotation": "grinning squinting face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😅",
+    "hexcode": "1f605",
+    "annotation": "grinning face with sweat",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "🤣",
+    "hexcode": "1f923",
+    "annotation": "rolling on the floor laughing",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😂",
+    "hexcode": "1f602",
+    "annotation": "face with tears of joy",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "🙂",
+    "hexcode": "1f642",
+    "annotation": "slightly smiling face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "🙃",
+    "hexcode": "1f643",
+    "annotation": "upside-down face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "🫠",
+    "hexcode": "1fae0",
+    "annotation": "melting face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😉",
+    "hexcode": "1f609",
+    "annotation": "winking face",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😊",
+    "hexcode": "1f60a",
+    "annotation": "smiling face with smiling eyes",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "😇",
+    "hexcode": "1f607",
+    "annotation": "smiling face with halo",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "🥰",
+    "hexcode": "1f970",
+    "annotation": "smiling face with hearts",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😍",
+    "hexcode": "1f60d",
+    "annotation": "smiling face with heart-eyes",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "🤩",
+    "hexcode": "1f929",
+    "annotation": "star-struck",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😘",
+    "hexcode": "1f618",
+    "annotation": "face blowing a kiss",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😗",
+    "hexcode": "1f617",
+    "annotation": "kissing face",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "☺️",
+    "hexcode": "263a",
+    "annotation": "smiling face",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😚",
+    "hexcode": "1f61a",
+    "annotation": "kissing face with closed eyes",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😙",
+    "hexcode": "1f619",
+    "annotation": "kissing face with smiling eyes",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "🥲",
+    "hexcode": "1f972",
+    "annotation": "smiling face with tear",
+    "subgroup": "face-affection"
+  },
+  {
+    "emoji": "😋",
+    "hexcode": "1f60b",
+    "annotation": "face savoring food",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "😛",
+    "hexcode": "1f61b",
+    "annotation": "face with tongue",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "😜",
+    "hexcode": "1f61c",
+    "annotation": "winking face with tongue",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "🤪",
+    "hexcode": "1f92a",
+    "annotation": "zany face",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "😝",
+    "hexcode": "1f61d",
+    "annotation": "squinting face with tongue",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "🤑",
+    "hexcode": "1f911",
+    "annotation": "money-mouth face",
+    "subgroup": "face-tongue"
+  },
+  {
+    "emoji": "🤗",
+    "hexcode": "1f917",
+    "annotation": "smiling face with open hands",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🤭",
+    "hexcode": "1f92d",
+    "annotation": "face with hand over mouth",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🫢",
+    "hexcode": "1fae2",
+    "annotation": "face with open eyes and hand over mouth",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🫣",
+    "hexcode": "1fae3",
+    "annotation": "face with peeking eye",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🤫",
+    "hexcode": "1f92b",
+    "annotation": "shushing face",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🤔",
+    "hexcode": "1f914",
+    "annotation": "thinking face",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🫡",
+    "hexcode": "1fae1",
+    "annotation": "saluting face",
+    "subgroup": "face-hand"
+  },
+  {
+    "emoji": "🤐",
+    "hexcode": "1f910",
+    "annotation": "zipper-mouth face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🤨",
+    "hexcode": "1f928",
+    "annotation": "face with raised eyebrow",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😐️",
+    "hexcode": "1f610",
+    "annotation": "neutral face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😑",
+    "hexcode": "1f611",
+    "annotation": "expressionless face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😶",
+    "hexcode": "1f636",
+    "annotation": "face without mouth",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🫥",
+    "hexcode": "1fae5",
+    "annotation": "dotted line face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😶‍🌫️",
+    "hexcode": "1f636-200d-1f32b-fe0f",
+    "annotation": "face in clouds",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😏",
+    "hexcode": "1f60f",
+    "annotation": "smirking face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😒",
+    "hexcode": "1f612",
+    "annotation": "unamused face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🙄",
+    "hexcode": "1f644",
+    "annotation": "face with rolling eyes",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😬",
+    "hexcode": "1f62c",
+    "annotation": "grimacing face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😮‍💨",
+    "hexcode": "1f62e-200d-1f4a8",
+    "annotation": "face exhaling",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🤥",
+    "hexcode": "1f925",
+    "annotation": "lying face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🫨",
+    "hexcode": "1fae8",
+    "annotation": "shaking face",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🙂‍↔️",
+    "hexcode": "1f642-200d-2194-fe0f",
+    "annotation": "head shaking horizontally",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "🙂‍↕️",
+    "hexcode": "1f642-200d-2195-fe0f",
+    "annotation": "head shaking vertically",
+    "subgroup": "face-neutral-skeptical"
+  },
+  {
+    "emoji": "😌",
+    "hexcode": "1f60c",
+    "annotation": "relieved face",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "😔",
+    "hexcode": "1f614",
+    "annotation": "pensive face",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "😪",
+    "hexcode": "1f62a",
+    "annotation": "sleepy face",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "🤤",
+    "hexcode": "1f924",
+    "annotation": "drooling face",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "😴",
+    "hexcode": "1f634",
+    "annotation": "sleeping face",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "🫩",
+    "hexcode": "1fae9",
+    "annotation": "face with bags under eyes",
+    "subgroup": "face-sleepy"
+  },
+  {
+    "emoji": "😷",
+    "hexcode": "1f637",
+    "annotation": "face with medical mask",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤒",
+    "hexcode": "1f912",
+    "annotation": "face with thermometer",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤕",
+    "hexcode": "1f915",
+    "annotation": "face with head-bandage",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤢",
+    "hexcode": "1f922",
+    "annotation": "nauseated face",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤮",
+    "hexcode": "1f92e",
+    "annotation": "face vomiting",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤧",
+    "hexcode": "1f927",
+    "annotation": "sneezing face",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🥵",
+    "hexcode": "1f975",
+    "annotation": "hot face",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🥶",
+    "hexcode": "1f976",
+    "annotation": "cold face",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🥴",
+    "hexcode": "1f974",
+    "annotation": "woozy face",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "😵",
+    "hexcode": "1f635",
+    "annotation": "face with crossed-out eyes",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "😵‍💫",
+    "hexcode": "1f635-200d-1f4ab",
+    "annotation": "face with spiral eyes",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤯",
+    "hexcode": "1f92f",
+    "annotation": "exploding head",
+    "subgroup": "face-unwell"
+  },
+  {
+    "emoji": "🤠",
+    "hexcode": "1f920",
+    "annotation": "cowboy hat face",
+    "subgroup": "face-hat"
+  },
+  {
+    "emoji": "🥳",
+    "hexcode": "1f973",
+    "annotation": "partying face",
+    "subgroup": "face-hat"
+  },
+  {
+    "emoji": "🥸",
+    "hexcode": "1f978",
+    "annotation": "disguised face",
+    "subgroup": "face-hat"
+  },
+  {
+    "emoji": "😎",
+    "hexcode": "1f60e",
+    "annotation": "smiling face with sunglasses",
+    "subgroup": "face-glasses"
+  },
+  {
+    "emoji": "🤓",
+    "hexcode": "1f913",
+    "annotation": "nerd face",
+    "subgroup": "face-glasses"
+  },
+  {
+    "emoji": "🧐",
+    "hexcode": "1f9d0",
+    "annotation": "face with monocle",
+    "subgroup": "face-glasses"
+  },
+  {
+    "emoji": "😕",
+    "hexcode": "1f615",
+    "annotation": "confused face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "🫤",
+    "hexcode": "1fae4",
+    "annotation": "face with diagonal mouth",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😟",
+    "hexcode": "1f61f",
+    "annotation": "worried face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "🙁",
+    "hexcode": "1f641",
+    "annotation": "slightly frowning face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "☹️",
+    "hexcode": "2639",
+    "annotation": "frowning face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😮",
+    "hexcode": "1f62e",
+    "annotation": "face with open mouth",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😯",
+    "hexcode": "1f62f",
+    "annotation": "hushed face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😲",
+    "hexcode": "1f632",
+    "annotation": "astonished face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😳",
+    "hexcode": "1f633",
+    "annotation": "flushed face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "🥺",
+    "hexcode": "1f97a",
+    "annotation": "pleading face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "🥹",
+    "hexcode": "1f979",
+    "annotation": "face holding back tears",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😦",
+    "hexcode": "1f626",
+    "annotation": "frowning face with open mouth",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😧",
+    "hexcode": "1f627",
+    "annotation": "anguished face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😨",
+    "hexcode": "1f628",
+    "annotation": "fearful face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😰",
+    "hexcode": "1f630",
+    "annotation": "anxious face with sweat",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😥",
+    "hexcode": "1f625",
+    "annotation": "sad but relieved face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😢",
+    "hexcode": "1f622",
+    "annotation": "crying face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😭",
+    "hexcode": "1f62d",
+    "annotation": "loudly crying face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😱",
+    "hexcode": "1f631",
+    "annotation": "face screaming in fear",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😖",
+    "hexcode": "1f616",
+    "annotation": "confounded face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😣",
+    "hexcode": "1f623",
+    "annotation": "persevering face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😞",
+    "hexcode": "1f61e",
+    "annotation": "disappointed face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😓",
+    "hexcode": "1f613",
+    "annotation": "downcast face with sweat",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😩",
+    "hexcode": "1f629",
+    "annotation": "weary face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😫",
+    "hexcode": "1f62b",
+    "annotation": "tired face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "🥱",
+    "hexcode": "1f971",
+    "annotation": "yawning face",
+    "subgroup": "face-concerned"
+  },
+  {
+    "emoji": "😤",
+    "hexcode": "1f624",
+    "annotation": "face with steam from nose",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "😡",
+    "hexcode": "1f621",
+    "annotation": "enraged face",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "😠",
+    "hexcode": "1f620",
+    "annotation": "angry face",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "🤬",
+    "hexcode": "1f92c",
+    "annotation": "face with symbols on mouth",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "😈",
+    "hexcode": "1f608",
+    "annotation": "smiling face with horns",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "👿",
+    "hexcode": "1f47f",
+    "annotation": "angry face with horns",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "💀",
+    "hexcode": "1f480",
+    "annotation": "skull",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "☠️",
+    "hexcode": "2620",
+    "annotation": "skull and crossbones",
+    "subgroup": "face-negative"
+  },
+  {
+    "emoji": "💩",
+    "hexcode": "1f4a9",
+    "annotation": "pile of poo",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "🤡",
+    "hexcode": "1f921",
+    "annotation": "clown face",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "👹",
+    "hexcode": "1f479",
+    "annotation": "ogre",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "👺",
+    "hexcode": "1f47a",
+    "annotation": "goblin",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "👻",
+    "hexcode": "1f47b",
+    "annotation": "ghost",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "👽️",
+    "hexcode": "1f47d",
+    "annotation": "alien",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "👾",
+    "hexcode": "1f47e",
+    "annotation": "alien monster",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "🤖",
+    "hexcode": "1f916",
+    "annotation": "robot",
+    "subgroup": "face-costume"
+  },
+  {
+    "emoji": "😺",
+    "hexcode": "1f63a",
+    "annotation": "grinning cat",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😸",
+    "hexcode": "1f638",
+    "annotation": "grinning cat with smiling eyes",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😹",
+    "hexcode": "1f639",
+    "annotation": "cat with tears of joy",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😻",
+    "hexcode": "1f63b",
+    "annotation": "smiling cat with heart-eyes",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😼",
+    "hexcode": "1f63c",
+    "annotation": "cat with wry smile",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😽",
+    "hexcode": "1f63d",
+    "annotation": "kissing cat",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "🙀",
+    "hexcode": "1f640",
+    "annotation": "weary cat",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😿",
+    "hexcode": "1f63f",
+    "annotation": "crying cat",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "😾",
+    "hexcode": "1f63e",
+    "annotation": "pouting cat",
+    "subgroup": "cat-face"
+  },
+  {
+    "emoji": "🙈",
+    "hexcode": "1f648",
+    "annotation": "see-no-evil monkey",
+    "subgroup": "monkey-face"
+  },
+  {
+    "emoji": "🙉",
+    "hexcode": "1f649",
+    "annotation": "hear-no-evil monkey",
+    "subgroup": "monkey-face"
+  },
+  {
+    "emoji": "🙊",
+    "hexcode": "1f64a",
+    "annotation": "speak-no-evil monkey",
+    "subgroup": "monkey-face"
+  },
+  {
+    "emoji": "💌",
+    "hexcode": "1f48c",
+    "annotation": "love letter",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💘",
+    "hexcode": "1f498",
+    "annotation": "heart with arrow",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💝",
+    "hexcode": "1f49d",
+    "annotation": "heart with ribbon",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💖",
+    "hexcode": "1f496",
+    "annotation": "sparkling heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💗",
+    "hexcode": "1f497",
+    "annotation": "growing heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💓",
+    "hexcode": "1f493",
+    "annotation": "beating heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💞",
+    "hexcode": "1f49e",
+    "annotation": "revolving hearts",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💕",
+    "hexcode": "1f495",
+    "annotation": "two hearts",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💟",
+    "hexcode": "1f49f",
+    "annotation": "heart decoration",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "❣️",
+    "hexcode": "2763",
+    "annotation": "heart exclamation",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💔",
+    "hexcode": "1f494",
+    "annotation": "broken heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "❤️‍🔥",
+    "hexcode": "2764-fe0f-200d-1f525",
+    "annotation": "heart on fire",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "hexcode": "2764-fe0f-200d-1fa79",
+    "annotation": "mending heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "❤️",
+    "hexcode": "2764",
+    "annotation": "red heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🩷",
+    "hexcode": "1fa77",
+    "annotation": "pink heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🧡",
+    "hexcode": "1f9e1",
+    "annotation": "orange heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💛",
+    "hexcode": "1f49b",
+    "annotation": "yellow heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💚",
+    "hexcode": "1f49a",
+    "annotation": "green heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💙",
+    "hexcode": "1f499",
+    "annotation": "blue heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🩵",
+    "hexcode": "1fa75",
+    "annotation": "light blue heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💜",
+    "hexcode": "1f49c",
+    "annotation": "purple heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🤎",
+    "hexcode": "1f90e",
+    "annotation": "brown heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🖤",
+    "hexcode": "1f5a4",
+    "annotation": "black heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🩶",
+    "hexcode": "1fa76",
+    "annotation": "grey heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "🤍",
+    "hexcode": "1f90d",
+    "annotation": "white heart",
+    "subgroup": "heart"
+  },
+  {
+    "emoji": "💋",
+    "hexcode": "1f48b",
+    "annotation": "kiss mark",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💯",
+    "hexcode": "1f4af",
+    "annotation": "hundred points",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💢",
+    "hexcode": "1f4a2",
+    "annotation": "anger symbol",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💥",
+    "hexcode": "1f4a5",
+    "annotation": "collision",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💫",
+    "hexcode": "1f4ab",
+    "annotation": "dizzy",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💦",
+    "hexcode": "1f4a6",
+    "annotation": "sweat droplets",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💨",
+    "hexcode": "1f4a8",
+    "annotation": "dashing away",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "🕳️",
+    "hexcode": "1f573",
+    "annotation": "hole",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💬",
+    "hexcode": "1f4ac",
+    "annotation": "speech balloon",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "👁️‍🗨️",
+    "hexcode": "1f441-fe0f-200d-1f5e8-fe0f",
+    "annotation": "eye in speech bubble",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "🗨️",
+    "hexcode": "1f5e8",
+    "annotation": "left speech bubble",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "🗯️",
+    "hexcode": "1f5ef",
+    "annotation": "right anger bubble",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💭",
+    "hexcode": "1f4ad",
+    "annotation": "thought balloon",
+    "subgroup": "emotion"
+  },
+  {
+    "emoji": "💤",
+    "hexcode": "1f4a4",
+    "annotation": "ZZZ",
+    "subgroup": "emotion"
+  }
+]

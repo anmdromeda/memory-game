@@ -1,0 +1,37 @@
+.auth-form-surface-container {
+  min-height: 100svh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:var(--layout-content-padding);
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.auth-form-surface {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 612px;
+  animation: fadeInContainer var(--base-animation-duration-ms) ease-in-out;
+  gap: var(--spacing-lg);
+  flex-direction: column;
+
+  @media (max-width: 767px) {
+    max-width: 412px;
+  }
+
+  .form-link {
+    color: var(--neutral-heading-light);
+    font-weight: var(--font-weight-semibold);
+    font-size: var(--font-size-xl);
+    text-align: center;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

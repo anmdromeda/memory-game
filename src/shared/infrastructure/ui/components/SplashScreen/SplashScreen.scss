@@ -1,0 +1,51 @@
+.splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--app-bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeInSplash 0.4s ease-out;
+  transition: background-color var(--base-animation-duration-ms) ease;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-md);
+    text-align: center;
+  }
+
+  &__logo {
+    margin-bottom: var(--spacing-sm);
+    max-width: 200px;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  &__message {
+    font-family: var(--font-main);
+    font-size: var(--font-size-base);
+    color: var(--app-text);
+    opacity: 0.8;
+    font-weight: var(--font-weight-medium);
+    letter-spacing: 0.5px;
+    transition: color var(--base-animation-duration-ms) ease;
+  }
+}
+
+@keyframes fadeInSplash {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

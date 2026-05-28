@@ -1,0 +1,19 @@
+.login-form-container {
+  width: 100%;
+
+  &__brand-logo {
+    margin-bottom: var(--spacing-3xl);
+  }
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2xl);
+  width: 100%;
+
+  .button {
+    margin-top: var(--spacing-xs);
+    width: 100%;
+  }
+}
